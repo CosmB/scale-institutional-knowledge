@@ -27,11 +27,16 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: _(include PM, PdM, Tech Lead, UX/Design Lead, DevOps, Security if applicable)_
+- UX / accessibility requirements (if any):
+- Security / compliance requirements (if any):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Tech Lead identified and consulted on feasibility
+- [ ] UX/Design Lead engaged if user-facing work is involved
+- [ ] Security & Compliance Officer notified if regulated data or security-sensitive features are in scope
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
@@ -41,3 +46,4 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+- Key technical and UX risks have been surfaced
